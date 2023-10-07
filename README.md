@@ -33,7 +33,7 @@ other correctly.
 testapp 60000
 
 will test the integrity of 120001, 60000
-upward and 60000 downward the 1900, and
+upward and 60000 downward the year 1900, and
 the year 1900 itself.
 
 /!\ the test module also contain a main
