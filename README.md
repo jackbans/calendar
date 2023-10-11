@@ -32,7 +32,7 @@ other correctly.
 
 testapp 60000
 
-will test the integrity of 120001, 60000
+will test the integrity of 120001 years, 60000
 upward and 60000 downward the year 1900, and
 the year 1900 itself.
 
